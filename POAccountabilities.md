@@ -4,7 +4,7 @@ This following content describes the core accountabilities for a CSE Product Own
 
 **1. Stakeholder Management**
 
-- **One Microsoft:** Assure that all Microsoft teams, including the account teams and different groups from within CSE, are fully aligned before the first meeting/conversation with the customer so that the customer has a unified, One Microsoft experience from the start of the Dev Crews involvement in the project. [More...](accountabilities/OneMicrosoft.md)
+- **One Microsoft:** Assure that all Microsoft teams, including the account teams and different groups from within CSE, are fully aligned before the first meeting/conversation with the customer so that the customer has a unified, One Microsoft experience from the start of the Dev Crews involvement in the project. [More...](Accountabilities/OneMicrosoft.md)
 - **Stakeholders and decision makers:** Identify and communicate with the rest of the project team “who’s who” for the engagement, including stakeholders who are not at the table but probably should be. The stakeholders list must include the customer contacts who can confirm that the proposed success criteria are aligned with the customer's business goals.
 - **CSE Engagement Model:** In partnership with the SEI and tech lead, assure that the account team and customer's decision makers understand the value, success factors and “ground rules” for CSE's code-with engagement model and are prepared to work Microsoft within this framework.
 - **Roles & responsibilities:** Establish clarity up front around project roles and responsibilities, across both Microsoft and the customer, to minimize conflicts or gaps in the ownership model during the engagement.
