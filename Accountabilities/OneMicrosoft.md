@@ -1,3 +1,5 @@
+[Product Owner Accountabilities](../POAccountabilities)
+
 # Presenting as One Microsoft to the Customer
 
 Everyone working on an engagement is expected to deliver a "One Microsoft" experience to customers. It is important that we not confuse or streass customers by exposing them to discontinuities and disagreements between different teams in Microsoft and CSE. With this in mind, we expect teams to get aligned before talking to the customer and to take internal disagreements offline for private discussion.
@@ -5,7 +7,7 @@ Everyone working on an engagement is expected to deliver a "One Microsoft" exper
 ## Common Issues
 
 - Microsoft folks meet each other for the first time in front of the customer. 
-- Information about who's who at he customer, customer expectations, previously completed work, etc. is not shared and understood by all the Microsoft folks.
+- Information about who's who at the customer, customer expectations, previously completed work, etc. is not shared and understood by all the Microsoft folks.
 - There isn't advanced agreement on agenda, who is facilitating the meeting, etc.
 - Some or all members the account team haven't worked with CSE and/or a dev crew, and they don't understand our approach, such as code-with, game planning, etc.
 - The SEI and/or account team are worried that dev crews folks are going to waste the customer's time and/or make the customer uncomfortable by reviewing topics that have been previously discussed.

@@ -1,23 +1,28 @@
-# CSE PO Accountabilities – What and How?
+# CSE Product Owner Accountabilities
 
 This following content describes the core accountabilities for a CSE Product Owner Role. This content is intended to clarify the PO role for everyone in CSE, and it also provides a framework for Lead POs to provide constructive feedback and coaching to Shadow POs.
 
-**1. Stakeholder Management**
+**1. Clarity & Alignment**
 
-- **One Microsoft:** Assure that all Microsoft teams, including the account teams and different groups from within CSE, are fully aligned before the first meeting/conversation with the customer so that the customer has a unified, One Microsoft experience from the start of the Dev Crews involvement in the project. [More...](Accountabilities/OneMicrosoft.md)
-- **Stakeholders and decision makers:** Identify and communicate with the rest of the project team “who’s who” for the engagement, including stakeholders who are not at the table but probably should be. The stakeholders list must include the customer contacts who can confirm that the proposed success criteria are aligned with the customer's business goals.
+- **Driving Clarity & Alignment:** Product Owners are expected to help steer the project team to clarity and alignment on any topic/issue under discussion. Clarity and alignment is achieved only when all relevant stakeholders agree that they understand the topic and will support any decision related to that topic/issue. *Deep Dive: [**Achieving Clarity and Alignment...**](Accountabilities/ClarityAndAlignment.md)*
+- **Accountability:** The PO is accountable for assuring there is clarity and alignment on any topic that potentially impacts the successful definition and execution of the project. This does NOT mean that the PO is responsible for managing every topic/issue. Rather, it's the PO's job to assure that clarity and alignment is achieved on all important topics/issues. If other team members are making good decisions and getting team buy-in, the PO may not need to be directly involved. But as soon as the team is struggling to achieve alignment, or if the PO disagress with the decisions that are being made, the PO is expected to step in and manage the discussion.
+
+**2. Stakeholder Management**
+
+- **One Microsoft:** Assure that all Microsoft teams, including the account team and different CSE teams/individuals, are fully aligned before the first meeting with the customer so that the customer has a unified, One Microsoft experience from the start of the Dev Crews involvement in the project. *Deep Dive: [**Presenting as One Microsoft...**](Accountabilities/OneMicrosoft.md)*
+- **Stakeholders and decision makers:** Drive clarity and alignment on the “who’s who” for the engagement, including stakeholders who are not at the table but probably should be. The stakeholders list must include the customer decison makers (e.g. exec sponsor, engineering managers, etc.) who can confirm that the proposed success criteria are aligned with the customer's business goals.
 - **CSE Engagement Model:** In partnership with the SEI and tech lead, assure that the account team and customer's decision makers understand the value, success factors and “ground rules” for CSE's code-with engagement model and are prepared to work Microsoft within this framework.
-- **Roles & responsibilities:** Establish clarity up front around project roles and responsibilities, across both Microsoft and the customer, to minimize conflicts or gaps in the ownership model during the engagement.
+- **Roles & responsibilities:** Drive clarity and alignment around project roles and responsibilities, across both Microsoft and the customer, to minimize conflicts or gaps in the ownership model during the engagement.
 - **Communication:** Drive transparent and inclusive communication within the project team and with all stakeholders. Exercise maturity and diplomacy in handling organizational tensions, interpersonal conflicts or other communication issues that might arise.
 - **Expectations:** Actively manage expectations across all project participants to avoid misunderstandings that could undermine trust, generate waste or block progress.
 
-**2. Scoping: Problem, Success & Done**
+**3. Scoping: Problem, Success & Done**
 
-- **Problem statement/** Propose, review and obtain full agreeement from the project decision makers a precise, implementation-free problem statement that captures the essential challenges to be delivered for the customer’s business and Microsoft.
-- **Success criteria:** Propose, review and obtain full agreeement from the project decision makers unambiguous success criteria that establish a common view of desired project outcomes and a common “yardstick” for determining whether or how well those outcomes have been achieved.
-- **Definition of done;** Propose, review and obtain full agreeement from the project decision makers definition of done (aka exit criteria) for each milestone that deliver a meaningful increment of value on the path to project success while also reducing project unknowns and risk.
+- **Problem statement/** Drive clarity and alignment on a precise, implementation-free problem statement that captures the essential challenges to be delivered for the customer’s business and Microsoft.
+- **Success criteria:** Drive clarity and alignment on the specific, measurable success criteria to establish a common view of desired project outcomes, along with a common “yardstick” for determining whether or how well those outcomes have been achieved.
+- **Definition of done:** Drive clarity and alignment on the definition of done (aka exit criteria) for each project milestone. These are the objective measures that must be met in order for all success criteria to be considered achieved.
     
-**3. Backlog Management**
+**4. Backlog Management**
 
 - **Personas:** Ensure use of persona in a consistent way to capture the desired experience for all relevant user types including developer, system admin, app admin, end user, etc.
 - **Benefits:** Understand target users at sufficient depth to capture not just the desired experience but the added value that the desired experience should deliver for them.
@@ -28,12 +33,12 @@ This following content describes the core accountabilities for a CSE Product Own
 - **Backlog:** [Backlog Management: complete, up-to-date, prioritized, vital as primary vehicle for task management and status reporting]
 - **Adapt to customer:** Adjust backlog management approach to different agile methodologies (Scrum, Kanban) as appropriate for the engineering team and customer context. 
 
-**4. Risk Management**
+**5. Risk Management**
 
 - [Make sure this has a sufficiently technical cast.  A PO can’t manage risks s/he doesn’t understand or is not able to spot without being told by devs.  CSE POs need to be able to proactively identify engineering risks, especially those that impact the desired user experience.  This includes risks that arise from engineering fundamentals and impact things like the maintainability, interoperability, scalability, reliability, etc.  See bullet in section 3 above on using user stories to drive the right investments into engineering fundamentals.]
 - [CSE POs need to proactively spot and accurately assess the severity/likelihood of different types of risk, understand the available approaches to mitigation and have an informed opinion as to which may be most suitable given the circumstances.  They need to communicate with stakeholders, motivate the team to take appropriate action, and be independently able to assess whether that action has been completed to the degree necessary to mitigate the risk.]
 
-**5. Product Management: Sharing & Reuse Plan**
+**6. Product Management: Sharing & Reuse Plan**
 
 - [Qualifying reuse opportunities, planning and executing collaborative work to develop and deliver on the most worthwhile among those opportunities.  Key will be to articulate the specific expertise that this requires not just the process steps to complete.]
 - [Identifying patterns.  Technical understanding to spot the general pattern in the specific case.  Developer experience and software industry know-how to correctly and accurately identify the broader need that the pattern addresses.]
