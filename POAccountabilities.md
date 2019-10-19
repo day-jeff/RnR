@@ -1,3 +1,5 @@
+[CSE Product Owner](../CSEProductOwner.md)
+
 # CSE Product Owner Accountabilities
 
 This following content describes the core accountabilities for a CSE Product Owner Role. This content is intended to clarify the PO role for everyone in CSE, and it also provides a framework for Lead POs to provide constructive feedback and coaching to Shadow POs.
