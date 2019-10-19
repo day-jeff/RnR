@@ -1,4 +1,4 @@
-[Product Owner Accountabilities](../POAccountabilities)
+[Product Owner Accountabilities](../POAccountabilities.md)
 
 # Creating Clarity & Alignment
 
@@ -14,4 +14,3 @@ Typical steps that should be followed to achieve clarity and alignment include:
 - Seek agreement that the topic/issue is framed appropriately and otherwise discuss as needed. 
 - Help all parties converge on a final decision about how to address/manage the topic.
 - Write the decision down, review the language with the relevant stakeholders, and get final buy-in.
-     

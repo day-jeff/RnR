@@ -1,4 +1,4 @@
-[Product Owner Accountabilities](../POAccountabilities)
+[Product Owner Accountabilities](../POAccountabilities.md)
 
 # Presenting as One Microsoft to the Customer
 
